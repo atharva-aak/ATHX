@@ -28,7 +28,7 @@ const Login: React.FC = () => {
           <div className="inline-block p-4 rounded-full bg-white/20 mb-4">
             <UserIcon size={40} className="text-white" />
           </div>
-          <h1 className="text-3xl font-bold text-white mb-2">Welcome to WebOS</h1>
+          <h1 className="text-3xl font-bold text-white mb-2">Welcome to ATHX</h1>
           <p className="text-white/80">Please enter your username to continue</p>
         </div>
         
