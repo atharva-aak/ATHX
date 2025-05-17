@@ -1,4 +1,4 @@
-# 🧠 WEB_OS — Your Browser. Your OS.
+# 🧠 WEB_OS — Your Browser. Your OS. Your ATHX.
 
 > 🚀 A futuristic, lightweight **Web Operating System** built entirely for the web. No installations. No boundaries. Just pure immersive interaction.
 
